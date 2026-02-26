@@ -1,0 +1,4 @@
+/target
+.env
+agterm_memory.db
+*.db
